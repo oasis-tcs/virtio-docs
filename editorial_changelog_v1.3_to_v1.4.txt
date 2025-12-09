@@ -1,0 +1,79 @@
+This list contains editorial patches introduced since 1.3:
+
+5051f04a69e0 Revert "editorial: Update revision to csd01"
+1b8550561ae4 Revert "editorial: Prepare public review draft"
+cbde05cdd946 changelog: add changelog since 1.3wd02
+1ab449a586e2 changelog: correct the changelog from 1.2
+89d81932dc92 edit: Add script to add newline to changelog
+373609d6cbe2 editorial: Prepare public review draft
+760fc4b7f19a editorial: Update revision to csd01
+b7f4aed22b11 editorial: Advance revision date
+53f06a6c432a changelog: Update changelog for additonal 1.4 patches
+5833db4fbcf1 Revert "editorial: Update revision to csd01"
+defdc1bf3679 Revert "editorial: Prepare public review draft"
+26c96dd4b684 editorial: Restore back the previous stage links
+75e806852781 editorial: Prepare public review draft
+7cdd4521c657 editorial: Update revision to csd01
+fc3c135083f4 editorial: Advance the date with fixes for diff generation
+5cc223827632 changelog: Update changelog for additonal 1.4 patches
+267ced17df4a editorial: Update diff version to 1.2
+92a4614ac9f7 editorial: Avoid logtable keyword as diff
+f6c548ff7182 editorial: Remove hyperlink with hash tag
+7672c71eeb65 REVISION: update to 1.4
+9191b1e7e27b changelog: Update changelog for additonal 1.4 patches
+0d71ab85e916 editorial: Update the new oasis open link
+9e065a90dd47 editorial: Add a new chair and a new editor
+14b4403e30c5 virtio-net: editorial: fix broken label link
+0bad6c8dc8b7 changelog: Update changelog for additonal 1.4 patches
+4e2a6b93be64 acknowledgements: update for 1.4
+521d5cccc608 gitlog: Add executable permision to script
+e8557d8d3360 changelog: Add changelog for 1.2 and 1.3
+8494bb93333f virtio-crypto: editorial: fix broken label link
+b2741ed3bfa9 virtio-gpu: Fix missing driver conformance file
+f9abfd55cb66 virtio-gpu: support blob alignment information
+563b6c8abb59 editorial: suppress noitem errors in diff
+21e81faef360 virtio-html: add missing makeatother
+5e4a575fc2d1 drop generated files
+b4899d24cd09 edit: Remove annotation of special character
+9f903b20b702 edit: add changelog for 1.4
+58ae15e84c02 edit: remove old changelog
+63aaa4bd96be Merge branch 'virtio-1.4'
+d9742cb7b26c README.md: add example email for TC vote request
+928d969251bf git-publish: add profile
+376348fe4047 gpu: editorial: Fix spelling errors
+a9b942e043d2 virtio-net: Rename selectors_limit to classifiers_limit
+4a5df407eca3 virtio-gpu: Fix spelling error
+d17c70ab971c Revert "virtio-gpu: Fix spelling error"
+417fb28849c6 virtio-gpu: Fix spelling error
+9d60d8457df0 common: editorial: Fix spelling errors
+ec1845bd5a02 gpu: editorial: Fix spelling errors
+b820c61e4840 crypto: editorial: Fix spelling errors
+9081da1f1e58 device-parts: editorial: Fix metadata type name
+1d388440700d device-parts: editorial: Add missing struct keyword
+6c2340547951 admin: get rid of _ in labels
+e48de848f976 makediff: cherry pick switch to tabularx
+459f1aa9ef74 virtio: replace xltabular with ltablex
+a5fb7b5edd8a admin-cmds-resource-objects: switch to tabularx
+886fc333de8b device-parts: switch to tabularx
+8e81624195ba admin-cmds-device-parts: switch to tabularx
+849b421941a4 admin: switch to tabularx
+98ad5fcc88ab makediff: cherry pick table env change
+737935487b9e makediff: look in subjects only
+24e93e10fdd4 editorial: replace hyperref with ref
+79b04be2e022 makediff: update base version to 1.3
+6fa0087aa8d3 Merge tag 'v1.3-wd02-makediff' into virtio-1.4
+61b65cbade3e editorial: allow for longer device id table: makediff 1.3
+75086cb72af6 Merge tag 'v1.3-wd02' into virtio-1.4
+b495841a8e80 (tag: v1.3-wd02) transport-mmio: fix up makediff from 1.2
+7e454b64747d makediff: cherry pick label change
+d7c486b49283 introduction: fix label
+550b76062270 can: drop a broken conformance link
+71fe8e907c9d README.md: update mailing list info
+4cb03b12dc95 description: Avoid splitting the word virtqueue
+5fc35a7efb90 makediff: update list of cherry-picks
+43a948ec6a92 editorial: update "Computer Language Definitions" URL
+eb16e3397177 editorial: various fixes for 1.3-csd01
+c8249d73d2fd editorial: allow for longer device id table
+c7bef01491d0 html: add missing enumitem package
+db68dc046b32 Revert "remove enumerate usage that makes the tool unhappy"
+3abace87db23 remove enumerate usage that makes the tool unhappy
